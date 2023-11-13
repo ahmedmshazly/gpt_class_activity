@@ -15,7 +15,7 @@ The LLM project uses the OpenWebText Corpus, a large-scale text dataset. Due to 
 
 ### Downloading OpenWebText
 
-1. Visit OpenWebText Archive.
+1. Visit OpenWebText Archive. [https://skylion007.github.io/OpenWebTextCorpus/](https://skylion007.github.io/OpenWebTextCorpus/)
 2. Download the compressed dataset to your local machine.
 3. Extract the dataset in a directory accessible to the project.
 
